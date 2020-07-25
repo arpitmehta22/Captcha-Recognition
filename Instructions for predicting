@@ -1,0 +1,4 @@
+Capcha detector 
+libraries used : keras,tensorflow,opencv,matplotlib.plyplot,numpy
+1.Pass the path of image to be predicted into submission file
+
